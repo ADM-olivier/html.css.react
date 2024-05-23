@@ -1,0 +1,19 @@
+.maco{
+    font-size: 40px;
+}
+td{
+    font-size: 40px;
+}
+h1{
+    font-size: 60px;
+    font-family: mkhedruli;
+}
+th, td{
+    font-size: 32px;
+}
+thead{
+   font-size: 40px;
+}
+th{
+    background-color: navajowhite;
+}
