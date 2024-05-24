@@ -1,4 +1,4 @@
-.maco{
+/* .maco{
     font-size: 40px;
 }
 td{
@@ -16,4 +16,7 @@ thead{
 }
 th{
     background-color: navajowhite;
+} */
+*{
+    display: inline;
 }
